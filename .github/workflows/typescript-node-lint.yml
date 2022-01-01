@@ -1,0 +1,10 @@
+---
+name: Typescript & Node Lint
+
+on:
+  pull_request:
+
+jobs:
+  reusable-workflow:
+    name: Reusable Workflow
+    uses: hspaans/.github/.github/workflows/typescript-node-lint.yml@master
