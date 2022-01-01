@@ -1,5 +1,5 @@
 ---
-name: Typescript & Node CI
+name: Typescript & Node Lint
 
 on:
   pull_request:
